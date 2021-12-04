@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Fructus
 //
-//  Created by user208584 on 12/4/21.
+//  Created by Ashish Langhe on 12/4/21.
 //
 
 import SwiftUI
@@ -16,6 +16,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        FruitCardView()
     }
 }
