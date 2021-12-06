@@ -31,7 +31,7 @@ let fruitsData: [Fruit] = [
     Fruit(title: "lemon",
           headLine: "Lemon are sweet, nutritious and widely popular fruit in world ",
           image: "lemon",
-          gradientColors: [Color("ColorBlackBerryLight"), Color("ColorBlackBerryDark")],
+          gradientColors: [Color("ColorLemonLight"), Color("ColorLemonDark")],
           description: "Lemon are perennial flowering plants with black or purple berries",
           nutrition: ["240 KJ", "9.96 g", "0.3 g", "0.74 g", "A", "B1", "Calcium", "Magnesium"]),
     Fruit(title: "cherry",
