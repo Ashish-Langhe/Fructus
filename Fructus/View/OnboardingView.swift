@@ -11,7 +11,7 @@ struct OnboardingView: View {
     var body: some View {
         TabView {
             ForEach(0..<5) { item in
-             FruitCardView()
+                FruitCardView(fruit: fruitsData[0])
             }
         }
         .tabViewStyle(PageTabViewStyle())
@@ -21,6 +21,7 @@ struct OnboardingView: View {
 
 struct OnboardingView_Previews: PreviewProvider {
     static var previews: some View {
-        OnboardingView()
+        //OnboardingView()
+        Text("Cards")
     }
 }
