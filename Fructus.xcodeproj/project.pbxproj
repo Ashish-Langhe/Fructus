@@ -19,6 +19,7 @@
 		72ACA6ED275B8B7300B8E31E /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72ACA6EC275B8B7300B8E31E /* StartButtonView.swift */; };
 		72FBEE70275D175C00FDC449 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FBEE6F275D175C00FDC449 /* FruitModel.swift */; };
 		72FBEE73275D1A0800FDC449 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FBEE72275D1A0800FDC449 /* FruitData.swift */; };
+		72FDB56E275F42700017534D /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FDB56D275F42700017534D /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		72ACA6EC275B8B7300B8E31E /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 		72FBEE6F275D175C00FDC449 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		72FBEE72275D1A0800FDC449 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		72FDB56D275F42700017534D /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 				72ACA6EA275B7CB300B8E31E /* FruitCardView.swift */,
 				72ACA6EC275B8B7300B8E31E /* StartButtonView.swift */,
 				726A8F46275BE7E200F5B682 /* OnboardingView.swift */,
+				72FDB56D275F42700017534D /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 			files = (
 				72FBEE73275D1A0800FDC449 /* FruitData.swift in Sources */,
 				72ACA6EB275B7CB300B8E31E /* FruitCardView.swift in Sources */,
+				72FDB56E275F42700017534D /* FruitRowView.swift in Sources */,
 				72ACA6ED275B8B7300B8E31E /* StartButtonView.swift in Sources */,
 				72ACA6C1275B70F800B8E31E /* ContentView.swift in Sources */,
 				726A8F47275BE7E300F5B682 /* OnboardingView.swift in Sources */,
