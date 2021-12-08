@@ -8,7 +8,7 @@
 import SwiftUI
 
 
-//MARK :- FRUITS DATA
+//MARK: - FRUITS DATA
 let fruitsData: [Fruit] = [
     Fruit(title: "Kiwi",
           headLine: "Kiwi are sweet, nutritious and widely popular fruit in world ",

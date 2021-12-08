@@ -9,11 +9,11 @@ import SwiftUI
 
 struct FruitHeaderView: View {
     
-    //MARK:- PROPERTIES
+    //MARK: - PROPERTIES
     var fruit:Fruit
     @State private var isAnimatingImage:Bool = false
     
-    //MARK:- BODY
+    //MARK: - BODY
     var body: some View {
         ZStack {
             LinearGradient(gradient: Gradient(colors: fruit.gradientColors), startPoint: .topLeading, endPoint: .bottomTrailing)

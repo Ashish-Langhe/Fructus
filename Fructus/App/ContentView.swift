@@ -8,10 +8,10 @@
 import SwiftUI
 
 struct ContentView: View {
-    //MARK:- PROPERTIES
+    //MARK: - PROPERTIES
     var fruits:[Fruit] = fruitsData
     
-    //MARK:- BODY
+    //MARK: - BODY
     var body: some View {
         NavigationView {
             List {

@@ -8,11 +8,11 @@
 import SwiftUI
 
 struct FruitDetailView: View {
-    //MARK:- PROPERTIES
+    //MARK: - PROPERTIES
     var fruit: Fruit
     
     
-    //MARK:- BODY
+    //MARK: - BODY
     var body: some View {
         NavigationView {
             ScrollView(.vertical, showsIndicators: false) {
