@@ -5,7 +5,8 @@
 -------------------------------------------------------
 ### UI/UX: OnBoarding UI Views's using SwiftUI
 
-![OnboardingView](https://user-images.githubusercontent.com/95478770/144981463-e5e4534e-dfd1-43e4-9412-44ba11107123.png)
 
 
-![ListUI](https://user-images.githubusercontent.com/95478770/145255237-c5acfb19-de52-4af1-95a2-13edc03dec3e.png)
+![Fructus_App_UI](https://user-images.githubusercontent.com/95478770/147019840-81f13e94-49b8-4570-841e-2010729781dd.png)
+
+![listview](https://user-images.githubusercontent.com/95478770/147020540-1c017569-786b-4e2b-9baf-4b813f25cea9.png)
